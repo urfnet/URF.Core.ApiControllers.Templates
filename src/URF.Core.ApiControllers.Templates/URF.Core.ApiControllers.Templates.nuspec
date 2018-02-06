@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+    <metadata>
+        <id>URF.Core.WebApi.Templates</id>
+        <version>1.0.0-rc</version>
+        <title>URF for .NET Core Web API Templates</title>
+        <description>Customizable Razor templates for URF for .NET Core Web API controllers.</description>
+        <authors>Tony Sneed</authors>
+        <owners>Tony Sneed</owners>
+        <licenseUrl>https://github.com/urfnet/URF.Core.ApiControllers.Templates/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/urfnet/URF.Core.ApiControllers.Templates</projectUrl>
+        <iconUrl>https://user-images.githubusercontent.com/2836367/35228483-77e3e390-ff56-11e7-8d34-81830f887f10.jpg</iconUrl>
+        <language>en-US</language>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <tags>aspnetcore web-api templates urf repository unitofwork frameworks</tags>
+        <packageTypes>
+            <packageType name="Template" />
+        </packageTypes>
+    </metadata>
+    <files>
+      <file src="content/**" target="" />
+    </files>
+</package>

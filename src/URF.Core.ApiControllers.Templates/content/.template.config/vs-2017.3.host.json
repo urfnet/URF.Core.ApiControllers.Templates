@@ -1,0 +1,9 @@
+{
+    "name": { "text": "URF for .NET Core Web API Templates" },
+    "description": { "text": "URF for .NET Core Web API Templates" },
+    "order": 500,
+    "icon": "vs-2017.3/icon.png",
+    "learnMoreLink": "https://github.com/urfnet/URF.Core.ApiControllers.Templates/blob/master/README.md",
+    "uiFilters": [ "oneaspnet" ],
+    "supportsDocker": false
+  }

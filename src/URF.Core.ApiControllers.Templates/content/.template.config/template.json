@@ -1,0 +1,25 @@
+{
+  "author": "Tony Sneed",
+  "classifications": [
+    "Web",
+    "WebAPI",
+    "Templates"
+  ],
+  "identity": "URF.Core.WebApi.Templates",
+  "groupIdentity": "URF.Core.WebApi.Templates.ControllerGenerator",
+  "name": "URF for .NET Core Web API Templates",
+  "shortName": "urf-webapi-templates",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "UrfWebApiTemplates",
+  "guids": [],
+  "preferNameDirectory": true,
+  "sources": [
+    {
+      "source": "./Templates/",
+      "target": "./Templates/"
+    }
+  ]
+}
